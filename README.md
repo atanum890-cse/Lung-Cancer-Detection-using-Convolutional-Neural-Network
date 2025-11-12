@@ -12,3 +12,5 @@ Citations
 The dataset collected from the following works:
 
 Lung Cancer Dataset on Kaggle
+Lung and Colon Cancer Histopathological Images
+https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images
